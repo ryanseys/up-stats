@@ -16,7 +16,7 @@ I should probably study instead of making this... *shrugs* :grimacing:
 - Total days met goal / total days with Jawbone UP
 - Least steps ever taken (laziest day)
 - Most steps ever taken (most active day)
-- Most active time of day
+- Most active time of day (on average)
 
 
 ## Calories
@@ -38,7 +38,14 @@ I should probably study instead of making this... *shrugs* :grimacing:
 - Deepest sleep day (based on deep sleep average)
 - Worst sleep (based on number of times woken up)
 - Worst sleep (based on least number of hours slept)
-- Average amount of time it takes to fall asleep.
+- Average amount of time it takes to fall asleep
+- Number of hours of sleep last night
+
+
+## Streaks
+
+- Days sleep goal met
+- Days steps goal met
 
 
 ## Misc
