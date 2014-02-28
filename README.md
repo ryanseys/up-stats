@@ -17,6 +17,10 @@ I should probably study instead of making this... *shrugs* :grimacing:
 - Least steps ever taken (laziest day)
 - Most steps ever taken (most active day)
 - Most active time of day (on average)
+- Total active time
+- Total inactive time
+- Average amount of active time / day
+- Average amount of inactive time / day
 
 
 ## Calories
