@@ -44,6 +44,7 @@ I should probably study instead of making this... *shrugs* :grimacing:
 - Worst sleep (based on least number of hours slept)
 - Average amount of time it takes to fall asleep
 - Number of hours of sleep last night
+- Average awake/light/deep sleep % comparison
 
 
 ## Streaks
