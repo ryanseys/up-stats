@@ -52,6 +52,12 @@ I should probably study instead of making this... *shrugs* :grimacing:
 - Days steps goal met
 
 
+## Mood
+
+- Average mood logged
+- Total moods logged
+
+
 ## Misc
 
 - Total days with Jawbone UP
